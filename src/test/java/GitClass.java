@@ -3,5 +3,6 @@ public class GitClass {
     ///comm#2
     ///message on branch localBranch/newFunctionality
     ///new comment
-    ///lower
+    ///message#5
+    ///message#6
 }
