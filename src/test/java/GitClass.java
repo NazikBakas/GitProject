@@ -1,4 +1,6 @@
 public class GitClass {
     ///leaving comment
-    //comment #2
+    ///comm#2
+    ///message on branch localBranch/newFunctionality
+    ///new comment
 }
